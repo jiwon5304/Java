@@ -9,7 +9,7 @@ public class GuGu {
     }
     // 2.메인 메소드 생성
     // 메소드 호출: main 메소드에서 dan 메소드를 호출
-    public static void main(String[] args) {
+    public static void main(Char[] args) {
         GuGu gugu = new GuGu();                 // 객체 생성
         for (int i =2; i < 10; i++) {
             gugu.dan(i);
