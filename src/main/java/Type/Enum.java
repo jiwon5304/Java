@@ -1,3 +1,5 @@
+package Type;
+
 import java.lang.String;
 
 /* 상수집합(Enum): 서로 관련이 있는 여러 개의 상수 집합을 정의할 때 사용하는 자료형 */
