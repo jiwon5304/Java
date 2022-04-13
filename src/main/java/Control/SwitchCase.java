@@ -48,7 +48,7 @@ public class SwitchCase {
             default: monthString = "Invalid month";
                 break;
         }
-        System.out.println(monthString);                // August
+        System.out.println(monthString);                    // August
 
     }
 }
