@@ -1,3 +1,5 @@
+package Type;
+
 import java.lang.String;
 /* 5. StringBuffer: 문자열을 추가하거나 변경 할 때 주로 사용하는 자료형 */
 // StringBuffer: 멀티 스레드 환경에서 안전

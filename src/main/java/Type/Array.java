@@ -1,3 +1,5 @@
+package Type;
+
 import java.lang.String;
 /* 6. 배열(Array): 자료형의 종류가 아닌 자료형의 집합을 의미, 들어가는 갯수가 정해져있음 */
 

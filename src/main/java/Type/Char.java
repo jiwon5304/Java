@@ -1,3 +1,5 @@
+package Type;
+
 /* 3. 문자(Char): 한 개의 문자 값에 대한 자료형 */
 public class Char {
     public static void main(java.lang.String[] args) {

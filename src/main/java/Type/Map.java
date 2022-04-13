@@ -1,3 +1,5 @@
+package Type;
+
 import java.lang.String;
 import java.util.HashMap;
 

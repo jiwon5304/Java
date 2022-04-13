@@ -1,3 +1,5 @@
+package Type;
+
 /* 1. 숫자(Number) */
 public class Number {
     public static void main(Char[] args) {

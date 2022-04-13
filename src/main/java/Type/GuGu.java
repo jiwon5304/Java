@@ -1,3 +1,5 @@
+package Type;
+
 // 1.클래스 생성
 public class GuGu {
     // 메소드 생성
