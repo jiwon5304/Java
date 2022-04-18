@@ -1,6 +1,15 @@
 package Control;
 import java.lang.String;
 
+/* for문 */
+
+/*
+기본문법
+for (초기치; 조건문; 증가치) {
+    ...
+}
+ */
+
 public class For {
     public static void main(String[] args) {
         String[] numbers = {"one", "two", "three"};
