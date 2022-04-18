@@ -1,8 +1,6 @@
 package Java100;
 
-import java.util.Locale;
-
-public class Method {
+public class Method_1 {
 
     public static void showMenu() {
         System.out.println("showMenu() 메소드가 호출되었습니다");
