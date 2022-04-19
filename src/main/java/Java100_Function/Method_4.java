@@ -2,7 +2,7 @@
 // 이 문제는 앞서 다뤘던 문제의 Call by value 방식을 Call by reference 방식으로 수정해서 보내라는 의미다.
 // a 값이 같은 결과가 나오도록 코드를 수정해보시오.
 
-package Java100;
+package Java100_Function;
 
 public class Method_4 {
     public static void sum( Integer a ) {
