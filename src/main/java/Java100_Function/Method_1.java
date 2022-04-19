@@ -1,4 +1,4 @@
-package Java100;
+package Java100_Function;
 
 public class Method_1 {
 

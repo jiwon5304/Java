@@ -3,7 +3,7 @@
 // 참고로 이 문제는 클래스와 객체에 대한 선행 학습이 필요하므로 이에 대한 학습 후 본 문제를 다시 풀어보는 것이 좋다.
 
 
-package Java100;
+package Java100_Function;
 
 public class Method_2 {
     // 1. static 선언시

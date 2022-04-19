@@ -2,7 +2,7 @@
 // 이때, 중첩 반복문을 사용하여 출력도 같이 해보시오.
 // 이 문제는 배열 생성시 사용자로 부터 입력을 받아서 2차원 배열을 만들 수 있는지를 묻는 문제이다.
 
-package Java100;
+package Java100_Function;
 
 import java.util.Scanner;
 
