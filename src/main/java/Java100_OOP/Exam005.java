@@ -24,10 +24,3 @@ class Person {
 public class Exam005 {
 
 }
-
-
-
-
-
-
-
