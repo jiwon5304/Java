@@ -1,10 +1,13 @@
-// 1000000원을 가진 변수를 천단위로 콤마를 찍어서 출력시켜보시오.
-// 이 문제는 천단위로 콤마(,)를 찍는 문제인데 여러가지 방법중 손쉽게 할 수 있는 방법으로 풀어본다.
-// 아래는 앞서의 FarmMachine 클래스 문제인데 가격을 천단위로 콤마 찍어서 출력해보세요.
+// FarmMachine의 속성과 동작들을 가지는 클래스를 코드로 구현하고 객체를 생성하여 동작시켜보시오.
+// 이 문제는 어떤 사물에 대한 클래스를 실제 코드로 구현할 수 있는지를 묻는 문제이다.
 
 package Java100_OOP;
 
-class FarmMachine2 {
+// 클래스 만들기
+// 객체의 특징: 속성(attribute)
+// 객체의 동작: 메서드(method)
+
+class FarmMachine {
 
     // 1. 변수선언: 속성(특징)
     int price;			// 가격
@@ -27,11 +30,11 @@ class FarmMachine2 {
 
 }
 
-public class Exam002 {
+public class Exam001 {
     public static void main(String[] args) {
 
         // 1. 객체 생성
-        FarmMachine2 fm = new FarmMachine2(); // new는 객체를 생성해서 그 주소값까지 반환
+        FarmMachine fm = new FarmMachine(); // new는 객체를 생성해서 그 주소값까지 반환
         System.out.println( fm );
 
         // 2.  생성된 객체에 속성 값 입력하기
@@ -40,7 +43,7 @@ public class Exam002 {
         fm.color = "red";
 
         // 3. 출력하기
-        System.out.println( String.format("%,d", fm.price) );
+        System.out.println( fm.price );
         System.out.println( fm.year );
         System.out.println( fm.color );
 
