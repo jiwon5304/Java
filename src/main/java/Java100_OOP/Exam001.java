@@ -34,7 +34,7 @@ public class Exam001 {
     public static void main(String[] args) {
 
         // 1. 객체 생성
-        FarmMachine fm = new FarmMachine(); // new는 객체를 생성해서 그 주소값까지 반환
+        FarmMachine fm = new FarmMachine(); // new: 객체를 생성하는 키워드, 그 주소값까지 반환
         System.out.println( fm );
 
         // 2.  생성된 객체에 속성 값 입력하기
